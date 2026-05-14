@@ -1,0 +1,13 @@
+flask
+flask-cors
+flask-sqlalchemy
+pandas
+numpy
+scikit-learn
+joblib
+gensim
+nltk
+Sastrawi
+wordcloud
+matplotlib
+openpyxl
